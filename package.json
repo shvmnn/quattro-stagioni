@@ -6,10 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "fix-react2shell": "npx fix-react2shell-next",
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "latest",
+    "next": "15.6.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "framer-motion": "^11.18.0"
